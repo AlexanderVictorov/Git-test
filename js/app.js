@@ -3,7 +3,6 @@
 // const ololo=document.querySelector('[title="div"]').style.color='yellow'
 // const input=document.querySelector('[type="radio"]')
 // const autocomplete=document.querySelector('[autocomplete="off"]')
-// console.log(ololo)
 
 /**
  * Описание задачи: Напишите функцию, которая возвращает вложенный массив вида [[key, value], [key, value]].
